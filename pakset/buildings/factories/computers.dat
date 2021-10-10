@@ -9,7 +9,7 @@ MapColor=63
 #-----
 InputGood[0]=plastics
 InputCapacity[0]=3000
-InputFactor[0]=1000
+InputFactor[0]=500
 InputGood[1]=cable
 InputCapacity[1]=100
 InputFactor[1]=20

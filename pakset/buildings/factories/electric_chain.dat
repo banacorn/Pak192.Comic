@@ -8,10 +8,10 @@ DistributionWeight=90
 MapColor=63
 #-----
 OutputGood[0]=copper
-OutputCapacity[0]=500
+OutputCapacity[0]=2000
 OutputFactor[0]=100
 #-----
-Productivity=240
+Productivity=960
 Range=20
 expand_probability=250
 expand_minimum=10
@@ -49,9 +49,9 @@ InputCapacity[1]=1000
 InputFactor[1]=30
 OutputGood[0]=cable
 OutputCapacity[0]=100
-OutputFactor[0]=10
+OutputFactor[0]=40
 #-----
-Productivity=50
+Productivity=200
 Range=5
 expand_probability=250
 expand_minimum=2
